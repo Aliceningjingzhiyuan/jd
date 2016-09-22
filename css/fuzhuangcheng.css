@@ -1,0 +1,85 @@
+.hengfuTop{width: 100%;position: relative;height: auto;}
+.hengfuTop span.close{display: block;width: 30px;height: 30px;position: absolute;right:5px;top: 5px;}
+.search{padding: 0;height: auto;margin-bottom: 15px;}
+.shopping{right: 65px;}
+form.searchFr{margin-top: 5px;width: 540px;}
+form.searchFr .seaInput{width: 456px!important;}
+form.searchFr .seaBtn{width: 82px;}
+.tips i{float: left;}
+.tips a:hover{color: #b1191a;}
+.menuNav .menuLeft{width: 210px;height: 46px;position: absolute;left: 0;top: 0;background: #b1191a;}
+.menuNav .menuLeft a.classify{display: block;width: 210px;height: 46px;line-height: 46px;text-indent: 10px;color: #fff;font-size: 15px;}
+.menuNav .menuLeft ul.outside{width: 210px;background: #c81623;z-index: 100;}
+.menuNav .menuLeft ul.outside li.outsideLi{width: 210px;height: 31px;}
+.menuNav .menuLeft ul.outside li.outsideLi:hover{background: #fff;}
+.menuNav .menuLeft ul.outside li.outsideLi>a:hover{color: #c81623!important;background: #fff!important;}
+.menuNav .menuLeft ul.outside li.outsideLi>a{display: block;width: 100%;height: 100%;text-indent: 10px;line-height: 31px;background: url(../images/fenli_jiantou.png) no-repeat 177px 14px;color: #fff;font-size: 14px;border-bottom: none;}
+article{width: 100%;margin-top: 50px;}
+article section.no1{width: 100%;height: auto;}
+article section.no1 h2,article section.no2 h2,.nanzhuang section.no3 h2{line-height: 36px;height:36px;font-size: 26px;color: #000;border-bottom: 2px solid #000;font-weight: normal;z-index: 100;}
+article section.no1 .wrapts{width: 100%;height: 422px;}
+article section.no1 .tsleftL,.tsleftR,.tsrightR{height: 422px;float: left;}
+article section.no1 .tsleftL a{display: block;width: 400px;height: 100%;}
+article section.no1 .tsleftR a,.tsrightR a{display: block;width: 400px;height: 50%;border-bottom: 1px solid #efefef;position: relative;}
+article section a span{display: block;width: 200px;height: 18px;position: absolute;left: 20px;}
+article section a span:first-of-type{top: 30px;color: #000;font-size: 20px;}
+article section a span:last-of-type{top: 60px;color: #cc2954;font-size: 12px;}
+article section.no1 .tsleftR a img{width: 270px;height:180px;position: absolute;right: 0;bottom: 0;}
+article section.no1 .tsrightL{width: 200px;height: 100%;float: left;}
+article section.no1 .tsrightL a{position: relative;width: 100%;height: 100%;display: block;background: #f4f3f9;}
+article section.no1 .tsrightL a img{position: absolute;bottom: 0;}
+article section.no1 .tsrightR a{width: 195px;}
+article section.no1 .tsrightR a img{position: absolute;bottom: 0;right: 0;}
+article section.no2{margin-top: 30px;height: auto;border-bottom: 1px solid #efefef;overflow: hidden;}
+article section.no2 .tsleft{width: 400px;height: 635px;float: left;}
+article section.no2 .tsleft a{display: block;width: 100%;height: auto;}
+article section.no2 .tsleft a img{width: 100%;height: auto;}
+article section.no2 .tsleft .tsleftBottom{width: 100%;height: 210px;}
+article section.no2 .tsleft .tsleftBottom .bigLI{width: 100%;height: 100%;}
+article section.no2 .tsleft .tsleftBottom .bigLI>li{width: 50%;height: 50%;float: left;padding: 10px 20px;font-size: 16px;}
+article section.no2 .tsleft .tsleftBottom .bigLI>li ul{margin-top: 10px;}
+article section.no2 .tsleft .tsleftBottom .bigLI>li ul li{width: 50%;float: left;}
+article section.no2 .tsleft .tsleftBottom .bigLI>li ul li a{font-size: 12px;}
+.red a{color: #c81623;}
+article section.no2 .tsleftL{width: 200px;height: 635px;float: left;}
+article section.no2 .tsleftL a{width: 100%;display: block;}
+article section.no2 .tsleftL a:first-of-type{height: 420px;}
+article section.no2 .tsleftL a:last-of-type{height: 215px;}
+article section.no2 .tsleftL a img{height: 100%;}
+article section.no2 .tsleftR{width: 200px;height: 100%;float: left;border-left: 1px solid #efefef;}
+article section.no2 .tsleftR a:nth-of-type(1),article section.no2 .tsleftR a:nth-of-type(2){border-bottom: 1px solid #efefef;}
+article section.no2 .tsrightR{width: 400px;float: left;}
+article section.no2 .tsrightR a{display: block;float: left;}
+article section.no2 .tsrightR a:first-of-type{width: 198px;height: 424px;border-left: 1px solid #efefef;}
+article section.no2 .tsrightR a:nth-of-type(3){border-top: 1px solid #efefef;}
+article section.no2 .tsrightR a:nth-of-type(2),article section.no2 .tsrightR a:nth-of-type(3){width: 200px;height: 210px;border-left: 1px solid #efefef;}
+article section.no2 .tsrightR a:nth-of-type(4){width: 400px;height: 210px;}
+.pinpaiBar{width: 100%;margin-bottom: 50px;}
+.pinpaiBar .container{border-bottom: 1px solid #efefef;padding: 15px 0;}
+.pinpaiBar ul{width: 100%;}
+.pinpaiBar ul li{float: left;height: 60px;width: 12.5%;}
+.pinpaiBar ul li a{display: block;width: 100%;height: 100%;}
+.nanzhuang section.no3{margin-top: 30px;height: auto;border-bottom: 1px solid #efefef;overflow: hidden;}
+.nanzhuang section.no3 .tsleft{width: 400px;height: 635px;float: left;}
+.nanzhuang section.no3 .tsleft a{display: block;width: 100%;height: auto;}
+.nanzhuang section.no3 .tsleft a img{width: 100%;height: auto;}
+.nanzhuang section.no3 .tsleft .tsleftBottom{width: 100%;height: 210px;}
+.nanzhuang section.no3 .tsleft .tsleftBottom .bigLI{width: 100%;height: 100%;}
+.nanzhuang section.no3 .tsleft .tsleftBottom .bigLI>li{width: 50%;height: 50%;float: left;padding: 10px 20px;font-size: 16px;}
+.nanzhuang section.no3 .tsleft .tsleftBottom .bigLI>li ul{margin-top: 10px;}
+.nanzhuang section.no3 .tsleft .tsleftBottom .bigLI>li ul li{width: 50%;float: left;}
+.nanzhuang section.no3 .tsleft .tsleftBottom .bigLI>li ul li a{font-size: 12px;}
+.nanzhuang section.no3 .tsleftL{width: 200px;height: 635px;float: left;border-right: 1px solid #efefef;}
+.nanzhuang section.no3 a{display: block;width: 100%;height: auto;}
+.nanzhuang section.no3 .tsleftL a:last-of-type{border-top: 1px solid #efefef;}
+.nanzhuang section.no3 .tsleftR{width: 200px;height: 100%;float: left;border-left: 1px solid #efefef;}
+.nanzhuang section.no3 .tsleftR a:nth-of-type(2),.nanzhuang section.no3 .tsleftR a:nth-of-type(3){border-top: 1px solid #efefef;}
+.nanzhuang section.no3 .tsrightR{width: 400px;float: left;}
+.nanzhuang section.no3 .tsrightR a{display: block;float: left;}
+.nanzhuang section.no3 .tsrightR a:first-of-type{width: 198px;height: 424px;border-left: 1px solid #efefef;}
+.nanzhuang section.no3 .tsrightR a:nth-of-type(3){border-top: 1px solid #efefef;}
+.nanzhuang section.no3 .tsrightR a:nth-of-type(2),.nanzhuang section.no3 .tsrightR a:nth-of-type(3){width: 200px;height: 210px;border-left: 1px solid #efefef;}
+.nanzhuang section.no3 .tsrightR a:nth-of-type(4){width: 400px;height: 210px;}
+.nanzhuang .manpinpai{width: 100%;height: 90px;padding: 15px;margin-bottom: 50px;border-bottom: 1px solid #efefef;}
+.nanzhuang .manpinpai li{float: left;height: 60px;width: 12.5%;}
+.nanzhuang .manpinpai li a{display: block;width: 100%;height: 100%;}
