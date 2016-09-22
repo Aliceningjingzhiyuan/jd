@@ -1,0 +1,36 @@
+body{font-family: 'Microsoft Yahei';}
+.content{width: 990px;height: 100%;margin: 0 auto;position: relative;}
+form.searchFr{width: 462px;height: 36px;overflow: hidden;}
+.search{height: 100px;padding-top: 30px;}
+.searchFr .seaInput{width: 378px !important;}
+.searchFr .seaBtn{cursor: pointer;}
+.shopping{right:0px;}
+.logo{margin-right: 30px;}
+.tips{margin-left: 0px !important;float: left;}
+.navMenu{height: 47px;width: 100%;background: #c81623;margin-top: 10px;}
+.navMenuLeft{width: 210px;height: 47px;float: left;background: #b1191a;position: relative;}
+.tuangouTittle{display: block;width: 100%;line-height: 47px;text-indent: 10px;color: #fff;font-size: 15px;overflow: hidden;}
+.tuangouTittle:hover{color: #fff;}
+.hideNavLeft{position: absolute;left: 0;top: 47px;width: 210px;background: #c81623;display: none;overflow: hidden;z-index: 100;}
+.hideNavLeft li{width: 100%;height: 36px;padding: 0 10px;}
+.hideNavLeft li:hover{background: #b1191a;}
+.hideNavLeft li a{display: block;height: 100%;width: 190px;border-bottom: 1px dashed #e48b91;line-height: 36px;color: #fff;}
+.hideNavLeft li:last-of-type a{border-bottom: none;}
+.hideNavLeft li a:hover{color: #fff;}
+.navMenuRight{height: 100%;}
+.navMenuRight li{float: left;height: 100%;}
+.navMenuRight li:hover,.navMenuRight li.ondo{background: #9d1112;}
+.navMenuRight li a{display: block;padding: 0 20px;height: 47px;color: #fff;line-height: 47px;font-size: 16px;}
+.navMenuRight li a:hover{color: #fff;}
+.qianggou ul{width: 100%;}
+.qianggou ul li{width: 49%;height: 333px;border: 1px solid #ececec;margin-top: 10px;float: left;}
+.qianggou ul li:nth-of-type(2n){margin-left: 2%;}
+.qianggou ul li:hover{border-color: #e4393c;}
+.banImg{width: 100%;display: block;}
+.banImg img{width: 100%;height: auto;}
+.cptn{width: 100%;padding: 0 30px;}
+.cptn a{display: block;font-size: 18px;height: 38px;line-height: 38px;border-bottom: 1px dashed #ccc;}
+.cptn span.l,.cptn span.r{height: 45px;line-height: 45px;}
+.cptn span.l i{font-size: 22px;color: #c4393c;font-weight: 700;font-family: 'vardana';}
+.cptn span.r button{background: #ef4d50;color: #fff;text-align: center;width: 75px;height: 25px;line-height: 25px;border: none;margin-left: 10px;cursor: pointer;}
+.banb img{border-bottom: 1px solid #dfdfdf;margin-bottom: 20px;}
